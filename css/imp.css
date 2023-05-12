@@ -31,7 +31,7 @@ input:-webkit-autofill:focus {
 /* Jquery ui select hover bg css */
 .ui-selectmenu-open .ui-widget-content .ui-state-focus {
     border: 1px solid #47588f !important;
-    background: #EFB217; !important;
+    background: #0E1B38 !important;
     font-weight: normal !important;
     color: #ffffff !important;
     font-size: 13px !important;

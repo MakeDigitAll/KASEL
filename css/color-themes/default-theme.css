@@ -8,7 +8,7 @@ a,
 .outer-search-box .seach-toggle.active,
 .project-filter li.active span, 
 .project-filter li:hover span{
-	color:#000;
+	color:#3740b0;
 }
 
 
@@ -21,7 +21,7 @@ a,
 .tparrows:hover,
 .sec-title .border:before,
 .sec-title .border:after{
-	background-color: #000;
+	background-color: #3740b0;
 }
 
 
@@ -30,7 +30,7 @@ a,
 
 /*Border Color*/
 .tparrows:hover{
-	border-color: #EFB217;
+	border-color: #3740b0;
 }
 
 
