@@ -398,7 +398,7 @@ blockquote {
 }
 
 a {
-  color: #0275d8;
+  color: #000;
   text-decoration: none;
 }
 
@@ -3141,6 +3141,7 @@ input[type="button"].btn-block {
 
 .collapse.show {
   display: block;
+  background:#EFB217;
 }
 
 tr.collapse.show {
